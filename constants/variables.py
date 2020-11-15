@@ -1,4 +1,3 @@
-url = 'https://stackoverflow.com/questions/54422010/how-can-i-test-a-component-with-setprops-of-enzyme'
+url = 'https://auto.ria.com/uk/car/mercedes-benz/'
 
 excel = './excel/statistics.xlsx'
-html = './html/site.html'
